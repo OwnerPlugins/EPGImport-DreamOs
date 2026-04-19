@@ -1,5 +1,6 @@
-```markdown
-# EPG Import – Modded for Dreambox Enigma2
+<h1 align="center">EPG Import – Modded for Dreambox Enigma2</h1>
+
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
 
 EPG Import plugin modified for Dreambox Enigma2 receivers.  
 This version includes fixes, improvements, and custom adaptations based on the original project.
@@ -64,5 +65,3 @@ wget -q --no-check-certificate "https://raw.githubusercontent.com/Belfagor2005/E
 This is an unofficial, community-maintained version of the plugin.
 Use at your own risk.
 
-```
-```
