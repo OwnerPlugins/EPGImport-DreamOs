@@ -1,6 +1,8 @@
 <h1 align="center">EPG Import – Modded for Dreambox Enigma2</h1>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://ko-fi.com/lululla)
+
 
 EPG Import plugin modified for Dreambox Enigma2 receivers.  
 This version includes fixes, improvements, and custom adaptations based on the original project.
